@@ -1,0 +1,25 @@
+[debug] [2022-12-24T17:15:35.155Z] ----------------------------------------------------------------------
+[debug] [2022-12-24T17:15:35.157Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Pichau\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-12-24T17:15:35.158Z] CLI Version:   11.19.0
+[debug] [2022-12-24T17:15:35.158Z] Platform:      win32
+[debug] [2022-12-24T17:15:35.158Z] Node Version:  v18.12.1
+[debug] [2022-12-24T17:15:35.159Z] Time:          Sat Dec 24 2022 14:15:35 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2022-12-24T17:15:35.159Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-12-24T17:15:35.240Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-12-24T17:15:35.241Z] > authorizing via signed-in user (matheulmaschio@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Pichau\Desktop\projeto-atitus-start-wars-main\projeto-atitus-start-wars-main
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
